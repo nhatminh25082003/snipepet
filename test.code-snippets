@@ -1,0 +1,82 @@
+{
+	"this is css for the flex": {
+		"prefix": "q-flex",
+		"scope":"css,scss",
+		"body": [
+		  "display: flex;",
+		  "align-items: center;",
+		  "justify-content: center;"
+		],
+		"description": "this is css for the flex"
+	  },
+
+
+	  
+	"this is css for the background-color1": {
+		"prefix": "q-pink",
+		"scope":"css,scss",
+		"body": [
+		  "background-color: #c38eb4;"
+		],
+		"description": "this is css for the background-color1"
+	  },
+
+
+
+	  "this is css for the background-color2": {
+		"prefix": "q-purple",
+		"scope":"css,scss",
+		"body": [
+		  "background-color: #bd83b8;"
+		],
+		"description": "this is css for the background-color2"
+	  },
+
+	  "this is css for the box": {
+		"prefix": "q-box",
+		"scope": "html",
+		"body": [
+		  "<h1 class=\"box 1\">Box 1</h1>",
+		  "<h2 class=\"box 2\">Box 2</h2>",
+		  "<h3 class=\"box 3\">Box 3</h3>",
+		  "",
+		  ""
+		],
+		"description": "this is css for the box"
+	  },
+
+	  "this is css for the box css": {
+		"prefix": "q-box",
+		"scope":"css,scss",
+		"body": [
+		  "width: 100px;",
+		  "height: 100px;",
+		  "",
+		  ""
+		],
+		"description": "this is css for the box css"
+	  },
+
+	  "this is css for the  form": {
+		"prefix": "q-form",
+		"body": [
+		  "<form>  ",
+		  "  <label for=\"firstname\">First Name: </label>  ",
+		  "  <input type=\"text\" id=\"firstname\" name=\"firstname\"/> <br/>  ",
+		  "  <label for=\"lastname\">Last Name: </label>  ",
+		  "  <input type=\"text\" id=\"lastname\" name=\"lastname\"/> <br/>  ",
+		  "</form>",
+		  ""
+		],
+		"description": "this is css for the  form"
+	  }
+
+
+}
+
+
+
+
+
+
+
